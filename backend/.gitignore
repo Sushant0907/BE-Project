@@ -25,3 +25,7 @@ yarn-error.log*
 
 # Contentlayer
 .contentlayer
+
+# Ignore model files
+*.h5
+*.pkl
